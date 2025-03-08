@@ -1,0 +1,9 @@
+[package]
+name = "Kryzel_v7"
+version = "1.0.0"
+
+[addresses]
+test_addr = "0x69d738995c2d7ee9b59c87a6b4ba578ebb6848c9d8de4f47f9ea9512584f4de3"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework/", rev = "testnet" }
