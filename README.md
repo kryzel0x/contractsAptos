@@ -7,6 +7,7 @@ Smart contracts for Kryzel token and staking system on Aptos blockchain.
 ### Kryzel Token (KRZ)
 - Custom token implementation on Aptos
 - Standard fungible token features
+- 1,000,000,000 Supply
 - Contract: `kryzel_coin_v7.move`
 
 ### Staking System
